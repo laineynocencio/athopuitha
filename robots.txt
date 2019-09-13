@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iliigiefal.knarfeh.com/sitemap.xml
